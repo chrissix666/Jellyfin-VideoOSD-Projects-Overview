@@ -40,7 +40,7 @@ Adds a screenshot button to the Jellyfin VideoOSD, including single screenshots,
 [Repository](https://github.com/chrissix666/Jellyfin-VideoOSD-CustomOnOff-Menu)
 
 This script is the quick-switching control hub for my Jellyfin VideoOSD mods.  
-It adds a customizable on/off submenu to the Jellyfin Web VideoOSD, letting you quickly enable or disable supported OSD script mods directly during video playback.
+It adds a customizable on/off submenu to the Jellyfin video playback menu, letting you quickly enable or disable supported OSD script mods directly during video playback.
 
 Supported mods:
 
