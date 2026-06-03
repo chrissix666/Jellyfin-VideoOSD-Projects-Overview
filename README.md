@@ -11,7 +11,7 @@ Tested on & Requirements: Windows 11, Chrome, Jellyfin Web 10.10.7, JavaScript I
 ---
 
 [Jellyfin-VideoOSD-CustomOnOff-Menu](https://github.com/chrissix666/Jellyfin-VideoOSD-CustomOnOff-Menu)  
-Quick-switching control hub for supported VideoOSD script addons. Adds a customizable on/off submenu directly to the Jellyfin video playback settings.
+Quick-switching control hub for supported VideoOSD addons. Adds a customizable on/off submenu directly to the Jellyfin video playback settings.
 
 [Jellyfin-VideoOSD-Artwork-Display](https://github.com/chrissix666/Jellyfin-VideoOSD-Artwork-Display)  
 Adds configurable artwork overlays to the Jellyfin VideoOSD, including logos, clearart, discs, posters, banners, thumbs, and backdrops.
