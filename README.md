@@ -67,7 +67,8 @@ Supported mods:
 
 Screenshot:
 
-<img src="https://raw.githubusercontent.com/chrissix666/Jellyfin-VideoOSD-CustomOnOff-Menu/main/Screenshot.png" width="500">
+<img src="https://raw.githubusercontent.com/chrissix666/Jellyfin-VideoOSD-CustomOnOff-Menu/main/Screenshot-Main.png" width="500">
+<img src="https://raw.githubusercontent.com/chrissix666/Jellyfin-VideoOSD-CustomOnOff-Menu/main/Screenshot-Sub.png" width="500">
 
 ---
 
@@ -175,7 +176,7 @@ It can also be toggled through the Custom On/Off Menu when installed.
 
 Screenshot:
 
-<img src="https://raw.githubusercontent.com/chrissix666/Jellyfin-VideoOSD-Download-Button/main/Screenshot.png" width="500">
+<img src="https://raw.githubusercontent.com/chrissix666/Jellyfin-VideoOSD-Download-Button/main/Screenshot.jpg" width="500">
 
 ---
 
