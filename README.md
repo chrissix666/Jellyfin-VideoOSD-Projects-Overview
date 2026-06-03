@@ -1,4 +1,4 @@
-# Jellyfin VideoOSD Projects
+# Jellyfin VideoOSD Projects Overview
 
 Central overview and quick-switching hub for my **Jellyfin Web VideoOSD mods**.
 
