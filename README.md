@@ -35,21 +35,6 @@ Adds a screenshot button to the Jellyfin VideoOSD, including single screenshots,
 
 ---
 
-## Recommended Core Setup
-
-For the best combined experience, start with:
-
-1. [Jellyfin-VideoOSD-CustomOnOff-Menu](https://github.com/chrissix666/Jellyfin-VideoOSD-CustomOnOff-Menu)
-2. Any supported VideoOSD mods you want to use
-3. Reload Jellyfin Web
-4. Start playback
-5. Open the VideoOSD menu and toggle supported mods as needed
-
-The Custom On/Off Menu acts as the small switching center for the supported scripts.  
-It does not install or remove mods. It only enables or disables already loaded compatible scripts.
-
----
-
 ## Custom On/Off Menu
 
 [Repository](https://github.com/chrissix666/Jellyfin-VideoOSD-CustomOnOff-Menu)
