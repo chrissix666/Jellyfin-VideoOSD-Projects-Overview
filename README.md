@@ -88,6 +88,8 @@ Customizes playback speed menu settings.
 
 You can define your own playback speed list, add custom speed values, and remove unwanted Jellyfin vanilla speed entries.
 
+This script is compatible with [Jellyfin-VideoOSD-CustomPlaybackSpeed-Buttons](https://github.com/chrissix666/Jellyfin-VideoOSD-CustomPlaybackSpeed-Buttons)
+
 Example use cases:
 
 - Add very slow speeds for detailed viewing
@@ -110,10 +112,7 @@ Adds custom playback speed step buttons directly to the Jellyfin VideoOSD.
 The buttons let you step up or down through available playback speed values.  
 A small center field shows the current speed and resets playback speed to 1x when clicked.
 
-This script is compatible with:
-
-- [Jellyfin-VideoOSD-CustomOnOff-Menu](https://github.com/chrissix666/Jellyfin-VideoOSD-CustomOnOff-Menu)
-- [Jellyfin-VideoOSD-CustomPlaybackSpeed-Menu](https://github.com/chrissix666/Jellyfin-VideoOSD-CustomPlaybackSpeed-Menu)
+This script is compatible with [Jellyfin-VideoOSD-CustomPlaybackSpeed-Menu](https://github.com/chrissix666/Jellyfin-VideoOSD-CustomPlaybackSpeed-Menu)
 
 If the Custom Playback Speed Menu is installed, the buttons use its configured speed values automatically.  
 If it is not installed, the script falls back to the Jellyfin vanilla playback speed values.
