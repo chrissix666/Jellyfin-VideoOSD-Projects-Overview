@@ -93,7 +93,7 @@ It can also be toggled through the Custom On/Off Menu when installed.
 
 Screenshot:
 
-<img src="https://raw.githubusercontent.com/chrissix666/Jellyfin-VideoOSD-Artwork-Display/main/Screenshot.png" width="600">
+<img src="https://raw.githubusercontent.com/chrissix666/Jellyfin-VideoOSD-Artwork-Display/main/Screenshot.jpg" width="600">
 
 ---
 
