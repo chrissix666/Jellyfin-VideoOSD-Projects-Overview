@@ -223,6 +223,7 @@ General installation flow:
 ## Tested On
 
 - Jellyfin Web 10.10.7
+- JavaScript Injector
 - Google Chrome
 - Windows 11
 
