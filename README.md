@@ -202,24 +202,6 @@ Screenshot:
 
 ---
 
-## Compatibility Between Mods
-
-Some scripts can work fully standalone.  
-Some scripts can also integrate with others.
-
-Recommended combinations:
-
-| Combination | Result |
-| --- | --- |
-| Custom On/Off Menu + Artwork OSD | Toggle artwork overlays from the VideoOSD menu. |
-| Custom On/Off Menu + Speed Buttons | Toggle speed buttons from the VideoOSD menu. |
-| Custom On/Off Menu + FrameByFrame Buttons | Toggle frame stepping buttons from the VideoOSD menu. |
-| Custom On/Off Menu + Download Button | Toggle the download button from the VideoOSD menu. |
-| Custom On/Off Menu + Screenshot Button | Toggle the screenshot button from the VideoOSD menu. |
-| Custom Playback Speed Menu + Speed Buttons | Speed buttons use the same custom speed list as the custom speed menu. |
-
----
-
 ## Installation Concept
 
 All scripts are intended for Jellyfin Web and are installed through a JavaScript injector or userscript manager.
@@ -237,10 +219,7 @@ General installation flow:
 2. Copy the desired script into the injector.
 3. Save the script.
 4. Reload Jellyfin Web.
-5. Start video playback.
-6. Open the VideoOSD and check the added controls.
-
-For the Custom On/Off Menu integration, load the Custom On/Off Menu before the supported addon scripts when possible.
+5. Start video playback and check the added controls.
 
 ---
 
