@@ -86,7 +86,7 @@ Screenshot:
 
 [Repository](https://github.com/chrissix666/Jellyfin-VideoOSD-CustomPlaybackSpeed-Menu)
 
-Customizes the Jellyfin Web VideoOSD playback speed menu.
+Customizes playback speed menu settings.
 
 You can define your own playback speed list, add custom speed values, and remove unwanted Jellyfin vanilla speed entries.
 
