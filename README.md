@@ -1,8 +1,8 @@
 # Jellyfin VideoOSD Projects Overview
 
-Central overview and quick-switching hub for my **Jellyfin Web VideoOSD addons**.
+Central overview and quick-switching hub for my **Jellyfin VideoOSD addons**.
 
-This repository collects all my Jellyfin VideoOSD scripts in one place, with links, short descriptions, screenshots where available, and notes about how the scripts can work together.
+This repository collects all my Jellyfin VideoOSD script addons in one place, with links, short descriptions, screenshots where available, and notes about how the scripts can work together.
 
 The goal is simple: make the Jellyfin Web video player more flexible, more comfortable, and more personal.
 
