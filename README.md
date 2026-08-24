@@ -1,3 +1,7 @@
+[Jellyfin Projects](https://linktr.ee/JellyfinProjects) | [Kodi Projects](https://linktr.ee/KodiProjects)
+
+---
+
 # Jellyfin VideoOSD Projects Overview
 
 Central overview and quick-switching hub for my **Jellyfin VideoOSD addons**.
