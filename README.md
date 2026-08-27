@@ -35,6 +35,9 @@ Adds a seamless download button to the Jellyfin Web VideoOSD. Downloads the curr
 [Jellyfin-VideoOSD-Screenshot-Button](https://github.com/chrissix666/Jellyfin-VideoOSD-Screenshot-Button)  
 Adds a screenshot button to the Jellyfin VideoOSD, including single screenshots, rapid-fire screenshots, and automatic screenshot mode.
 
+[Jellyfin-VideoOSD-ABLoop-Button](https://github.com/chrissix666/Jellyfin-VideoOSD-ABLoop-Button)  
+Adds an A-B loop button to the Jellyfin Web VideoOSD. Mark two points on the timeline and repeat that section endlessly — just like VLC's own A-B repeat.
+
 ---
 
 ## Custom On/Off Menu
@@ -51,6 +54,7 @@ Supported script addons:
 - FrameByFrame Buttons
 - Download Button
 - Screenshot Button
+- A-B Loop Button
 
 Screenshot:
 
@@ -185,6 +189,23 @@ It can also be toggled through the Custom On/Off Menu when installed.
 Screenshot:
 
 <img src="https://raw.githubusercontent.com/chrissix666/Jellyfin-VideoOSD-Screenshot-Button/main/Screenshot.png" width="500">
+
+---
+
+## A-B Loop Button
+
+[Repository](https://github.com/chrissix666/Jellyfin-VideoOSD-ABLoop-Button)
+
+Adds an A-B loop button to the Jellyfin Web VideoOSD.
+
+Click once to set point A, click again to set point B, and the video loops endlessly between them — just like VLC's own A-B repeat.  
+A third click clears the loop.
+
+It can also be toggled through the Custom On/Off Menu when installed.
+
+Screenshot:
+
+<img src="https://raw.githubusercontent.com/chrissix666/Jellyfin-VideoOSD-ABLoop-Button/main/Screenshot.png" width="500">
 
 ---
 
