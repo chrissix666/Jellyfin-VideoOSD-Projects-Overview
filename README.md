@@ -10,7 +10,7 @@ This repository collects all my Jellyfin VideoOSD script addons in one place, wi
 
 The goal is simple: make the Jellyfin Web video player more flexible, more comfortable, and more personal.
 
-Tested on & Requirements: Windows 11, Chrome, Jellyfin Web 10.10.7, JavaScript Injector.
+Tested on & Requirements: Windows 11, Chrome, Jellyfin Web 10.10.7 and 12.0+, JavaScript Injector.
 
 ---
 
@@ -244,7 +244,7 @@ General installation flow:
 
 ## Tested On
 
-- Jellyfin Web 10.10.7
+- Jellyfin Web 10.10.7 and 12.0+
 - Jellyfin JavaScript Injector plugin
 - Google Chrome
 - Windows 11
